@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **eld120/eld120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Web development with Django, .NET core, Vuejs and software design patterns
+- 💬 Ask me about bicycles, bicycle maintenance, or the bicycle industry (over 10 YOE)
+- 😄 Pronouns: He/Him
