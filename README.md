@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Django, .NET core, Vue, and software design.
-- 💬 Ask me about bicycles, bicycle maintenance, or the bicycle industry (over 10 YOE)
+- 💬 Ask me about bicycles
 - 😄 Pronouns: He/Him
