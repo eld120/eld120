@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Django, .NET core, Vue, and software design.
-- 💬 Ask me about bicycles
 - 😄 Pronouns: He/Him
