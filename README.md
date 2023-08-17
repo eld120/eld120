@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Django, .NET core, Vue, and software design.
+- 🌱 I’m currently learning Django, Vue, and software design.
 - 😄 Pronouns: He/Him
