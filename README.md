@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Django, a bit of Rails, and a bit of ops
+- 🌱 I’m currently learning Django/Rails, a bit of Go, and a bit of ops
+- 💬 Ask me about almost anything bicycle related
 - 😄 Pronouns: He/Him
